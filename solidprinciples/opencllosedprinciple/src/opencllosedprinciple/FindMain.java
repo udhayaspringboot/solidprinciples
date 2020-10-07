@@ -11,7 +11,7 @@ public class FindMain {
 		Scanner sc = new Scanner(System.in);
 		int as = sc.nextInt();
 		int ab = sc.nextInt();
-		fsi.sum(as, ab);
+		//fsi.sum(as, ab);
 		fsi.diff(as, ab);
 
 	}
